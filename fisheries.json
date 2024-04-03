@@ -1,0 +1,229 @@
+{
+  "Criteria": {
+    "skagit": 0.6,
+    "stilly": 0.5,
+    "sno": 0.4,
+    "hoodCanal": 0.45,
+    "jdf": 0.4,
+    "thompson": 0.1,
+    "quilly": 6300
+  },
+  "Base": {
+    "id": 1,
+    "description": "Base",
+    "skagit": 0.4415,
+    "stilly": 0.3865,
+    "sno": 0.4124,
+    "hoodCanal": 0.4464,
+    "jdf": 0.1302,
+    "thompson": 0.0878,
+    "quilly": 5987
+  },
+  "Scenarios": [
+    {
+      "name": "5",
+      "items": [
+        {
+          "description": "9/1 - 9/30 Sport MSF Two Fish Bag",
+          "area": "5",
+          "skagit": -0.0023,
+          "stilly": -0.0019,
+          "sno": -0.002,
+          "hoodCanal": -0.0045,
+          "jdf": -0.0062,
+          "thompson": -0.0037,
+          "quilly": 3,
+          "id": 2
+        },
+        {
+          "description": "No Change",
+          "area": "5",
+          "skagit": 0,
+          "stilly": 0,
+          "sno": 0,
+          "hoodCanal": 0,
+          "jdf": 0,
+          "thompson": 0,
+          "quilly": 0,
+          "id": 12
+        }
+      ]
+    },
+    {
+      "name": "6",
+      "items": [
+        {
+          "description": "9/1 - 9/30 Sport MSF Two Fish Bag",
+          "area": "6",
+          "skagit": -0.0039,
+          "stilly": -0.002,
+          "sno": -0.0021,
+          "hoodCanal": -0.004,
+          "jdf": -0.0059,
+          "thompson": -0.0035,
+          "quilly": 1,
+          "id": 3
+        },
+        {
+          "description": "No Change",
+          "area": "6",
+          "skagit": 0,
+          "stilly": 0,
+          "sno": 0,
+          "hoodCanal": 0,
+          "jdf": 0,
+          "thompson": 0,
+          "quilly": 0,
+          "id": 13
+        }
+      ]
+    },
+    {
+      "name": "7",
+      "items": [
+        {
+          "description": "NS 9/1-9/24 Sport Two Fish Bag",
+          "area": "7",
+          "skagit": 0.0006,
+          "stilly": 0.0002,
+          "sno": 0.0002,
+          "hoodCanal": 0.0002,
+          "jdf": 0,
+          "thompson": 0.0028,
+          "quilly": -2,
+          "id": 4
+        },
+        {
+          "description": "NS 9/1-9/30 Sport Two Fish Bag",
+          "area": "7",
+          "skagit": 0.002,
+          "stilly": 0.0004,
+          "sno": 0.0004,
+          "hoodCanal": 0.0005,
+          "jdf": 0,
+          "thompson": 0.0062,
+          "quilly": -4,
+          "id": 5
+        },
+        {
+          "description": "NS 9/1-9/10 2 Fish Bag; NS 9/11-9/30 1 Fish Bag",
+          "area": "7",
+          "skagit": 0.0005,
+          "stilly": 0.0001,
+          "sno": 0.0001,
+          "hoodCanal": 0.0002,
+          "jdf": 0,
+          "thompson": 0.0021,
+          "quilly": -1,
+          "id": 6
+        },
+        {
+          "description": "NS 9/1-9/15 2 Fish Bag; NS 9/16-9/30 1 Fish Bag",
+          "area": "7",
+          "skagit": 0.001,
+          "stilly": 0.0002,
+          "sno": 0.0002,
+          "hoodCanal": 0.0003,
+          "jdf": 0,
+          "thompson": 0.0031,
+          "quilly": -2,
+          "id": 7
+        },
+        {
+          "description": "No Change",
+          "area": "7",
+          "skagit": 0,
+          "stilly": 0,
+          "sno": 0,
+          "hoodCanal": 0,
+          "jdf": 0,
+          "thompson": 0,
+          "quilly": 0,
+          "id": 14
+        }
+      ]
+    },
+    {
+      "name": "8-2",
+      "items": [
+        {
+          "description": "MSF September 9/1-9/30 Two Fish Bag",
+          "area": "8-2",
+          "skagit": -0.002,
+          "stilly": -0.0305,
+          "sno": -0.0355,
+          "hoodCanal": -0.0002,
+          "jdf": -0.0001,
+          "thompson": -0.0001,
+          "quilly": 0,
+          "id": 8
+        },
+        {
+          "description": "NS September 9/1-9/30 One Fish Bag",
+          "area": "8-2",
+          "skagit": 0.0003,
+          "stilly": 0.0059,
+          "sno": 0.0071,
+          "hoodCanal": 0,
+          "jdf": 0,
+          "thompson": 0,
+          "quilly": 0,
+          "id": 9
+        },
+        {
+          "description": "No Change",
+          "area": "8-2",
+          "skagit": 0,
+          "stilly": 0,
+          "sno": 0,
+          "hoodCanal": 0,
+          "jdf": 0,
+          "thompson": 0,
+          "quilly": 0,
+          "id": 15
+        }
+      ]
+    },
+    {
+      "name": "9",
+      "items": [
+        {
+          "description": "MSF September 9/1-9/30 Two Fish Bag",
+          "area": "9",
+          "skagit": -0.0053,
+          "stilly": -0.0046,
+          "sno": -0.0047,
+          "hoodCanal": -0.0113,
+          "jdf": -0.0006,
+          "thompson": -0.0004,
+          "quilly": 0,
+          "id": 10
+        },
+        {
+          "description": "NS Two Fish Bag 10/1-10/8",
+          "area": "9",
+          "skagit": 0.002,
+          "stilly": 0.001,
+          "sno": 0.001,
+          "hoodCanal": 0.0063,
+          "jdf": 0.0001,
+          "thompson": 0.0001,
+          "quilly": 0,
+          "id": 11
+        },
+        {
+          "description": "No Change",
+          "area": "9",
+          "skagit": 0,
+          "stilly": 0,
+          "sno": 0,
+          "hoodCanal": 0,
+          "jdf": 0,
+          "thompson": 0,
+          "quilly": 0,
+          "id": 16
+        }
+      ]
+    }
+  ]
+}
